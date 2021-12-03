@@ -1,0 +1,131 @@
+const productsData = 
+[
+    {
+        id:'1',
+        name:"Potato",
+        price:25,
+        image:'https://assets.bonappetit.com/photos/5d7284758d926f0009df5cfc/16:9/w_2560%2Cc_limit/Basically-Gojuchang-Chicken-Potato.jpg'
+    },
+    {
+        id:'2',
+        name:"Tomato",
+        price:20,
+        image:'https://gazzettahedone.mx/wp-content/uploads/2018/01/Gazzetta-Hedone-Jitomates.jpg'
+    },
+    {
+        id:'3',
+        name:"Cauliflower",
+        price:10,
+        image:'https://www.ecestaticos.com/image/clipping/557/418/6fb733eff303c3841c6102f6af8ae153/coliflor-la-verdura-con-nutrientes-a-mansalva-y-muy-pocas-calorias.jpg'
+    },
+    {
+        id:'4',
+        name:"Cucumber",
+        price:20,
+        image:'https://comerbeber.com/archivos/imagen/2020/02/cucumbers-pepinos-cv_1200.jpg'
+    },
+    {
+        id:'5',
+        name:"Onion",
+        price:35,
+        image:'https://cadenaser00.epimg.net/ser/imagenes/2020/07/23/gastro/1595508111_499293_1595508612_noticia_normal_recorte1.jpg'
+    },
+    {
+        id:'6',
+        name:"Rdish",
+        price:20,
+        image:'https://www.thespruce.com/thmb/M-M8s0QDtF_5l2LQVDbcMtr2sEE=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/growing-radishes-in-the-home-vegetable-garden-1403477-02-c295e04667df4c8fac380a5543b663e1.jpg'
+    },
+    {
+        id:'7',
+        name:"Beans",
+        price:45,
+        image:'https://static.producer.com/wp-content/uploads/2020/04/02170807/07-3-col-beans-GettyImages-157280488.jpg'
+    },
+    {
+        id:'8',
+        name:"Rice",
+        price:15,
+        image:'https://yaleclimateconnections.org/pics/cc/mc/102419_rice.jpg'
+    },
+    {
+        id:'9',
+        name:"Chickpeas",
+        price:28,
+        image:'https://www.thespruceeats.com/thmb/DQ21gxBDS9LrhWVVXA9iSARqgPM=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/chickpeas-2500-56a20fa13df78cf77271859d.jpg'
+    },
+    {
+        id:'10',
+        name:"Lentils",
+        price:35,
+        image:'https://estaticos.miarevista.es/media/cache/1140x_thumb/uploads/images/article/5e04de3a5bafe8d6f6a9f577/lentejas_1.jpg'
+    },
+    {
+        id:'11',
+        name:"Pistachios",
+        price:60,
+        image:'https://resize.hswstatic.com/w_796/gif/now-900dd051-8038-4c52-a04c-807d7283dc8c-1210-680.jpg'
+    },
+    {
+        id:'12',
+        name:"Peanuts",
+        price:45,
+        image:'http://upl.stack.com/wp-content/uploads/2020/01/14122708/Peanuts-4-STACK-654x368.jpg'
+    },
+    {
+        id:'13',
+        name:"OrangeJuice",
+        price:20,
+        image:'https://www.earthfoodandfire.com/wp-content/uploads/2018/05/Vertical-Fresh-squeezed-OJ-750x1125.jpg'
+    },
+    {
+        id:'14',
+        name:"Carrot Juice",
+        price:25,
+        image:'https://static.toiimg.com/photo/70155576.cms'
+    },
+    {
+        id:'15',
+        name:"Green Juice",
+        price:35,
+        image:'https://delightfulmomfood.com/wp-content/uploads/2019/10/detox-juice-1.jpg'
+    },
+    {
+        id:'16',
+        name:"Betrot Juice",
+        price:55,
+        image:'https://cdn1.foodviva.com/static-content/food-images/juice-recipes/beetroot-juice-recipe/beetroot-juice-recipe.jpg'
+    },
+    {
+        id:'17',
+        name:"Mint Juice",
+        price:45,
+        image:'https://cook.fnr.sndimg.com/content/dam/images/cook/fullset/2014/1/7/0/CC_youkilis-grapefruit-mint-juice-recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1389274844408.jpeg'
+    },
+    {
+        id:'18',
+        name:"Lemon juice",
+        price:10,
+        image:'https://homepuff.com/wp-content/uploads/2019/04/lemon-juice.jpg'
+    },
+    {
+        id:'19',
+        name:"Olive Oil",
+        price:60,
+        image:'https://33q47o1cmnk34cvwth15pbvt120l-wpengine.netdna-ssl.com/wp-content/uploads/177433263-320x449.jpg'
+    },
+    {
+        id:'20',
+        name:"Coco Oil",
+        price:95,
+        image:'https://5.imimg.com/data5/UO/MH/MY-4090147/virgin-coconut-oil-500x500.png'
+    },
+    {
+        id:'21',
+        name:"Argan Oil",
+        price:100,
+        image:'https://statics-cuidateplus.marca.com/sites/default/files/styles/natural/public/aceite-argan_0.jpg?itok=R5_VZilW'
+    },
+]
+
+export default productsData;

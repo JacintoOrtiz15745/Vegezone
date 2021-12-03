@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531007284123",
+    "project_id": "vegezone-2945d",
+    "storage_bucket": "vegezone-2945d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531007284123:android:bc402d33bbf3f64a95373e",
+        "android_client_info": {
+          "package_name": "com.vegezone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531007284123-06a7vjhfmdme9utehq1gs2k4246cn65l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vegezone",
+            "certificate_hash": "095afcbe8d8c1532ef228e8285b3ca4523f81c45"
+          }
+        },
+        {
+          "client_id": "531007284123-uhj7ddfkduuv1lecj1khpoo6oqclunto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5JE14f6xjnJv6N5GtuaM2iNTOLSCaIU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531007284123-uhj7ddfkduuv1lecj1khpoo6oqclunto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
